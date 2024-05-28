@@ -1,0 +1,27 @@
+{
+  "name": "com.iconic.worlds",
+  "version": "0.1.0",
+  "displayName": "Iconic Worlds Starter Pack",
+  "description": "This package contains everything you need for a new Iconic Worlds project",
+  "unity": "2022.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.cloud.gltfast": "6.5.0",
+    "com.unity.cloud.draco": "5.1.4",
+    "com.unity.cloud.ktx": "3.4.0",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.addressables": "1.21.21"
+ },
+ "type": "library",
+ "keywords": [
+  ],
+  "author": {
+    "name": "Rodger Maarfi",
+    "email": "rodger.maarfi@iconicmoments.co",
+    "url": "https://iconicmoments.co"
+  }
+}
