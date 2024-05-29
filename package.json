@@ -1,8 +1,8 @@
 {
-  "name": "com.iconic.worlds",
+  "name": "io.iconicworlds.deps",
   "version": "0.1.0",
-  "displayName": "Iconic Worlds Starter Pack",
-  "description": "This package contains everything you need for a new Iconic Worlds project",
+  "displayName": "Iconic Worlds dependencies",
+  "description": "conic Worlds dependencies, for Unity 2023 LTS",
   "unity": "2022.3",
   "documentationUrl": "",
   "changelogUrl": "",
@@ -11,7 +11,7 @@
     "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.unity.cloud.gltfast": "6.5.0",
     "com.unity.cloud.draco": "5.1.4",
-    "com.unity.cloud.ktx": "3.4.0",
+    "com.unity.cloud.ktx": "3.4.1",
     "com.unity.ugui": "1.0.0",
     "com.unity.textmeshpro": "3.0.9",
     "com.unity.addressables": "1.21.21"
