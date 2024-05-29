@@ -1,8 +1,8 @@
 {
   "name": "io.iconicworlds.deps",
   "version": "0.1.0",
-  "displayName": "Iconic Worlds dependencies",
-  "description": "conic Worlds dependencies, for Unity 2023 LTS",
+  "displayName": "Iconic Worlds Dependencies",
+  "description": "Iconic Worlds Dependencies, for Unity 2023 LTS",
   "unity": "2022.3",
   "documentationUrl": "",
   "changelogUrl": "",
