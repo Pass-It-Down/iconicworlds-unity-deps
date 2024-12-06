@@ -1,8 +1,8 @@
 {
   "name": "io.iconicworlds.deps",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "displayName": "Iconic Worlds Dependencies",
-  "description": "Iconic Worlds Dependencies, for Unity 2023 LTS",
+  "description": "Iconic Worlds Dependencies, for Unity 2022 LTS",
   "unity": "2022.3",
   "documentationUrl": "",
   "changelogUrl": "",
@@ -14,13 +14,16 @@
     "com.unity.cloud.ktx": "3.4.1",
     "com.unity.ugui": "1.0.0",
     "com.unity.textmeshpro": "3.0.9",
-    "com.unity.addressables": "1.21.21"
+    "com.unity.addressables": "1.21.21",
+    "com.unity.memoryprofiler": "1.1.3",
+    "com.unity.render-pipelines.universal": "14.0.11"
+
  },
  "type": "library",
  "keywords": [
   ],
   "author": {
-    "name": "Rodger Maarfi",
+    "name": "Rodger Maarfi / Chad Graves",
     "email": "rodger.maarfi@iconicmoments.co",
     "url": "https://iconicmoments.co"
   }
